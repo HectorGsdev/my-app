@@ -4,8 +4,8 @@ function Header() {
   return (
 
      <Card>
-        <h1>This is a header</h1>
-      </Card>
+        <h2>TRANSVAC</h2>
+     </Card>
 
   );
 }

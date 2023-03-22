@@ -1,0 +1,13 @@
+img {
+display: inline-block;
+vertical-align: middle;
+margin: 20px;
+
+}
+
+img +h1{
+    display : inline-block;    
+    vertical-align: bottom;
+    font-family: sans-serif;
+    margin: 20px;
+}
