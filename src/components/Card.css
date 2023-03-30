@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-block;
+}
+
+body {
+    /* background-color: rgb(196, 250, 252); */
+    background-image: url("../media/Fig-01.JPG");
+    background-size: cover;
+    filter:blur();
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.card {
+    /* background-color: aqua; */
+    border-radius: 12px; 
+    box-shadow: 0 1px 8px rgba(0,0,0,0.25) ;
+    background-color:rgb(173, 203, 236); /* For browsers that do not support gradients */
+    /* background-image: linear-gradient(to left, rgb(248, 248, 248),rgb(217, 230, 241),rgb(166, 203, 238), rgb(194, 212, 247)); */
+    background-color: #b1afaf4f;
+ 
+    max-width: 100%;
+    border: 1px solid black;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    align-self: start;
+    
+}
+

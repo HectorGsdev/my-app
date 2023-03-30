@@ -1,0 +1,20 @@
+.img-header {
+display: inline-block;
+vertical-align: middle;
+margin: 1%;
+}
+
+img + h1{
+    color: black;
+    display : inline-block;    
+    vertical-align: bottom;
+    font-family: sans-serif;
+    margin: 20px;
+
+}
+
+.fix-card{
+    position: fixed;
+    top: 0;
+    left: 0;;
+}
